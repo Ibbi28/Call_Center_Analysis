@@ -4,7 +4,7 @@
 **Objective:** Analyze agent performance, call resolution, and customer satisfaction to identify improvement opportunities  
 **Data Scope:** 5,000+ calls | Q3 2023 | 8 agents evaluated  
 
-![Call Center Dashboard](demo_screenshot.png) */* Replace with actual screenshot */*
+
 
 ## 🔍 Key Findings
 
